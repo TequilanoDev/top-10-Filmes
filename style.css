@@ -1,0 +1,53 @@
+body{
+    background: rgb(227, 213, 213);
+    
+}
+
+h1{
+
+    background: rgb(226, 244, 233);
+   }
+
+.div{
+    display: flex;
+    
+
+}
+
+.img{
+    display:flex
+    }
+
+.cabecalho{
+    background-color: rgb(182, 56, 75);
+    padding: 10px;
+
+}
+.cabecalho .top10filmes {
+   display: inline-block;
+   color: rgb(225, 225, 231);
+   background-color: rgb(13, 25, 2);
+
+}
+
+.cabecalho nav{
+  float: right;
+
+
+}
+.cabecalho nav li {
+   display: inline-block;
+   padding: 10px;
+
+
+}
+
+.h1 Top10filmes{
+    display: inline-block;
+
+
+}
+
+.posters{
+    text-align: center;
+}
